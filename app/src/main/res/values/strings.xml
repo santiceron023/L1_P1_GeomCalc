@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geom Calc</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="triangle">Triangle</string>
+    <string name="Cube">Rectange Prism</string>
+    <string name="intro">Shape to Calculate</string>
+    <string name="base">Enter base</string>
+    <string name="height">Enter height</string>
+    <string name="radious">Enter radious</string>
+    <string name="width">Enter width</string>
+    <string name="result">Result</string>
+    <string name="empty">Empty</string>
+    <string name="Compute">Compute !</string>
+</resources>
